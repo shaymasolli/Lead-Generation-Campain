@@ -86,3 +86,13 @@ Viral Loops (referral engine) · Klaviyo (emails & onboarding) · GA4 & Looker S
 ### 5. Key Insight
 
 In fintech, trust and clear incentives drive referrals. Verified investors who feel confident and acknowledged are more likely to invite peers, who in turn complete verification and make their first investment. A structured, automated referral program with targeted follow-ups helps scale high-quality investors efficiently, and a visual blueprint or demo tool makes potential impact clear to clients before full implementation.
+
+---
+
+## Contact
+Shayma Solli — Business & Growth Marketing Consultant 
+📧 shayma.solli@gmail.com
+
+---
+
+**License:** CC-BY (Use this conceptual blueprint freely; please credit the author if reused).
