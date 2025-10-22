@@ -66,10 +66,10 @@ Viral Loops (referral engine) · Klaviyo (emails & onboarding) · GA4 & Looker S
 ### 4. Results & Impact
 *These are modeled projections based on industry benchmarks and a 90-day MVP + paid test scenario. Real results should be validated and iterated once the campaign runs.*
 
-- **+25–30% projected** increase in verified investor accounts.
-- **~15–20% projected** uplift in referral-driven sign-ups from existing investors.
-- **2–3× projected ROI** on targeted retargeting spend once referral conversions begin.
-- **~20–25% projected** average CTR for referral and activation email sequences.
+- **+25–30%** projected increase in verified investor accounts.
+- **~15–20%** projected uplift in referral-driven sign-ups from existing investors.
+- **2–3×** projected ROI on targeted retargeting spend once referral conversions begin.
+- **~20–25%** projected average CTR for referral and activation email sequences.
 
 <p align="center"> <em>Looker Studio mock showing referral-driven growth, verification funnel, and channel ROI for the MVP campaign.</em><br> <img src="performance_dashboard_fundingsouq.png" alt="Funding Souq Growth Dashboard" style="width:80%; height:auto;" /> </p>
 
@@ -85,6 +85,4 @@ Viral Loops (referral engine) · Klaviyo (emails & onboarding) · GA4 & Looker S
 
 ### 5. Key Insight
 
-In fintech, recognition outperforms incentives.  
-Referral systems rooted in credibility and activation automation lower CAC while scaling verified lead growth.  
-Trust, reassurance, and relevance consistently outperform discounts or one-time bonuses.
+In fintech, trust and clear incentives drive referrals. Verified investors who feel confident and acknowledged are more likely to invite peers, who in turn complete verification and make their first investment. A structured, automated referral program with targeted follow-ups helps scale high-quality investors efficiently, and a visual blueprint or demo tool makes potential impact clear to clients before full implementation.
