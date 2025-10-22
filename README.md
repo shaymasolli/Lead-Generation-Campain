@@ -74,6 +74,10 @@ Highlights automation triggers (Klaviyo) and incentive checkpoints (KYC + first 
 </p>
 
 <p align="center">
+  <img src="Organic_Signup_Welcome_Email" alt="Organic Signup Welcome Email – Referrer" style="width:70%; height:70%;" />
+</p>
+
+<p align="center">
   <img src="successful_referral_email.png" alt="Successful Referral Email" style="width:70%; height:70%;" />
 </p>
 
@@ -97,16 +101,6 @@ Highlights automation triggers (Klaviyo) and incentive checkpoints (KYC + first 
 - **~15–20%** projected uplift in referral-driven sign-ups from existing investors.
 - **2–3×** projected ROI on targeted retargeting spend once referral conversions begin.
 - **~20–25%** projected average CTR for referral and activation email sequences.
-
-<p align="center"> <em>Looker Studio mock showing referral-driven growth, verification funnel, and channel ROI for the MVP campaign.</em><br> <img src="performance_dashboard_fundingsouq.png" alt="Funding Souq Growth Dashboard" style="width:80%; height:auto;" /> </p>
-
----
-
-### Campaign Performance Insights
-<p align="center">
-<em>Looker Studio dashboard visualizing referral sign-ups, verification completions, and reactivation trends. Highlights the uplift in verified investor growth and sustainable acquisition achieved through referral-driven automation. </em><br>
-<img src="campaign_dashboard.png" alt="Funding Souq Campaign Results Dashboard" />
-</p>
 
 ---
 
