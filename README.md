@@ -64,11 +64,14 @@ Viral Loops (referral engine) · Klaviyo (emails & onboarding) · GA4 & Looker S
 ---
 
 ### 4. Results & Impact
+*These are modeled projections based on industry benchmarks and a 90-day MVP + paid test scenario. Real results should be validated and iterated once the campaign runs.*
 
-- **+28% increase in verified investor accounts within 3 months**  
-- **+18% uplift in borrower referral sign-ups through incentive sharing**  
-- **3.2× ROI on retargeting campaigns** through behavioral segmentation  
-- **24% average CTR** on referral and reactivation email sequences  
+- **+25–30% projected** increase in verified investor accounts.
+- **~15–20% projected** uplift in referral-driven sign-ups from existing investors.
+- **2–3× projected ROI** on targeted retargeting spend once referral conversions begin.
+- **~20–25% projected** average CTR for referral and activation email sequences.
+
+<p align="center"> <em>Looker Studio mock showing referral-driven growth, verification funnel, and channel ROI for the MVP campaign.</em><br> <img src="performance_dashboard_fundingsouq.png" alt="Funding Souq Growth Dashboard" style="width:80%; height:auto;" /> </p>
 
 ---
 
