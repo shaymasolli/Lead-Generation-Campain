@@ -53,10 +53,40 @@ Viral Loops (referral engine) · Klaviyo (emails & onboarding) · GA4 & Looker S
 ---
 
 ### Referral & Activation Flow (Fintech Investment MVP)
-<p align="center"> <img src="referral_activation_flow.png" alt="Referral & Activation Flow – Fintech Investment MVP" /> </p>
-
 Visualizes the journey from signup → verification → investment → referral → reward.
 Highlights automation triggers (Klaviyo) and incentive checkpoints (KYC + first investment).
+<p align="center"> <img src="referral_activation_flow.png" alt="Referral & Activation Flow – Fintech Investment MVP" /> </p>
+
+
+---
+
+### Referral Program Experience (Email + Landing Assets)
+*(Mockups showing end-to-end communication flow — created in Canva.)*
+
+#### 🔹 Referrer Experience  
+<p align="center">
+  <img src="referrer_landing_page.png" alt="Referrer Landing Page" style="width:70%; height:70%;" /><br>
+  <em>“Give 100 AED. Get 100 AED” landing page. </em>
+</p>
+
+<p align="center">
+  <img src="welcome_email_referrer.png" alt="Welcome Email – Referrer" style="width:70%; height:70%;" />
+</p>
+
+<p align="center">
+  <img src="successful_referral_email.png" alt="Successful Referral Email" style="width:70%; height:70%;" />
+</p>
+
+#### 🔹 Referred User Experience  
+<p align="center">
+  <img src="referred_user_landing_page.png" alt="Referred User Landing Page" style="width:70%; height:70%;" />
+</p>
+
+<p align="center">
+  <img src="referred_user_welcome_email.png" alt="Referred User Welcome Email" style="width:70%; height:70%;" />
+</p>
+
+
 
 ---
 
