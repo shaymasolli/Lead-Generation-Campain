@@ -50,16 +50,13 @@ Viral Loops (referral engine) · Klaviyo (emails & onboarding) · GA4 & Looker S
 - Developed a Looker Studio dashboard combining Viral Loops conversions, Klaviyo engagement, GA4 events, and paid channel ROI, highlighting referral performance, top traffic sources and conversion trends.
 - Maintained consistent copy and creative direction across emails, referral pages, and paid ads to maximize credibility and conversion flow.
 
-<p align="center"> <em>Referral & activation flow designed for investor onboarding and peer referrals (Viral Loops + Klaviyo + analytics).</em><br> <img src="referral_flow_fundingsouq.png" alt="Referral and Activation Flow Diagram" style="width:80%; height:auto;" /> </p>
-
-
 ---
 
-### Referral Automation Flow
-<p align="center">
-<em>Automated referral and reactivation flow connecting investor onboarding, referral triggers, and incentive confirmation across the fintech journey.</em><br>
-<img src="referral_automation_flow.png" alt="Funding Souq Referral Automation Flow" style="width:60%; height:60%;" />
-</p>
+### Referral & Activation Flow (Fintech Investment MVP)
+<p align="center"> <img src="referral_activation_flow.png" alt="Referral & Activation Flow – Fintech Investment MVP" /> </p>
+
+Visualizes the journey from signup → verification → investment → referral → reward.
+Highlights automation triggers (Klaviyo) and incentive checkpoints (KYC + first investment).
 
 ---
 
