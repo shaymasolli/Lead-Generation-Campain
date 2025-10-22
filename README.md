@@ -11,11 +11,8 @@
 Funding platforms like Funding Souq often face:
 
 - High drop-off between sign-up and KYC verification
-
 - No structured referral program to leverage investor networks
-
 - Generic follow-ups that don’t nudge verification or sharing
-
 - No unified view of referral performance or investor acquisition
 
 Impact: lost opportunities for **organic growth** and **first-time investments**.
