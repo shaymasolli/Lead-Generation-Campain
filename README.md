@@ -1,5 +1,5 @@
 ## 💳 Fintech Lead Acquisition & Referral Program
-*Accelerating verified investor growth through referral-driven automation and personalized reactivation*
+*Accelerating verified investor growth through referral-driven automation and targeted onboarding.*
 
 **Client:** Funding Souq — Fintech Investment Platform (Conceptual Project)  
 **Objective:** Increase verified investor sign-ups and first-time investments while lowering customer acquisition costs through an automated referral program.
