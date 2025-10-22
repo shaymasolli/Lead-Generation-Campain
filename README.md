@@ -74,7 +74,7 @@ Highlights automation triggers (Klaviyo) and incentive checkpoints (KYC + first 
 </p>
 
 <p align="center">
-  <img src="Organic_Signup_Welcome_Email" alt="Organic Signup Welcome Email – Referrer" style="width:70%; height:70%;" />
+  <img src="Organic_Signup_Welcome_Email.png" alt="Organic Signup Welcome Email – Referrer" style="width:70%; height:70%;" />
 </p>
 
 <p align="center">
